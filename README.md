@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhdamn34
-- 👀 I’m interested in PHP
+- 👀 I’m interested in PHP, Laravel
 - 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on someone to teach me
 - 📫 How to reach me aminuddinhamzah05@gmail.com.
