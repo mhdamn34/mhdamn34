@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhdamn34
-- 👀 I’m interested in PHP, Laravel
-- 🌱 I’m currently learning Laravel Framework
+- 👀 I’m interested in PHP, Laravel, Vue
+- 🌱 I’m currently learning Laravel Framework and Vue 2, 3
 - 💞️ I’m looking to collaborate on someone to teach me
 - 📫 How to reach me aminuddinhamzah05@gmail.com.
 
